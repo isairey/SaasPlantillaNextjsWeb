@@ -80,7 +80,7 @@ Ideal para crear productos SaaS escalables, seguros y listos para producción.
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/nextjs-saas-starter.git
+git clone https://github.com/isairey/nextjs-saas-starter.git
 ```
 
 ---
