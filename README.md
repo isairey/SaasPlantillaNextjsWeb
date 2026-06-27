@@ -88,7 +88,7 @@ git clone https://github.com/isairey/SaasPlantillaNextjsWeb.git
 ## 2. Entrar al proyecto
 
 ```bash
-cd nextjs-saas-starter
+cd SaasPlantillaNextjsWeb
 ```
 
 ---
