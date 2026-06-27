@@ -52,7 +52,7 @@ Ideal para crear productos SaaS escalables, seguros y listos para producción.
 # 📂 Estructura del Proyecto
 
 ```text
-📦 nextjs-saas-starter
+📦SaasPlantillaNextjsWeb
 │
 ├── app/
 │
